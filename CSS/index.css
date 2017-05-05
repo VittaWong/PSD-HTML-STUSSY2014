@@ -1,0 +1,74 @@
+.index-banner{
+    height:900px;
+    background:url(../images/header-banner.png) no-repeat;
+}
+
+.index-banner .index-banner-text{
+    padding-top:386px;
+    text-align:center;
+    color:#fff;
+    font-size:60px;
+}
+
+.index-banner .index-banner-text span{
+    padding-top:488px;
+    font-size:40px;
+    color: #cc210d;
+    text-align:center;
+}
+
+.index-banner .index-banner-icon{
+    position:absolute;
+    top:780px;
+    left:50%;
+    margin-left:-50px;
+    background:url(../images/banner-icon.png);
+    width:84px;
+    height:42px;
+    display:inline-block;
+}
+
+.index-panel1{
+    padding-top:40px;
+}
+
+.index-panel1 .pics-left{
+    width:980px;
+    height:780px;
+    float:left;
+    display:inline-block;
+}
+
+.index-panel1 .pics-right{
+    float:right;
+    display:inline-block;
+}
+
+.pics-row{
+    padding-bottom:60px;
+    width:460px;
+    height:360px;
+}
+
+.index-panel2 ul{
+    width:1560px;
+}
+
+.index-panel2 .pics2{
+    width:460px;
+    heigth:580px;
+    float:left;
+    padding:50px 60px 0 0;
+}
+
+.index-panel3 ul{
+    padding-top:80px;
+    width:1700px;
+}
+
+
+.index-panel3 .pics3{
+    float:left;
+    width:425px;
+    height:425px;
+}
